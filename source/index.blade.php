@@ -168,59 +168,59 @@
                     @slot('animation', 'Left')
                     @slot('reward', 'first')
                     @slot('name', 'Региональный чемпионат JuniorSkills 2016')
-                    @slot('link', 'rch16js.html')
+                    @slot('link', '16/rchjs.html')
                 @endcomponent
                 @component('_components.champ')
                     @slot('animation', 'Right')
                     @slot('reward', 'third')
                     @slot('name', 'Национальный чемпионат JuniorSkills 2016')
-                    @slot('link', 'final16js.html')
+                    @slot('link', '16/finaljs.html')
                 @endcomponent
 
                 @component('_components.champ')
                     @slot('animation', 'Left')
                     @slot('reward', 'first')
                     @slot('name', 'Региональный чемпионат JuniorSkills 2017')
-                    @slot('link', 'rch17js.html')
+                    @slot('link', '17/rchjs.html')
                 @endcomponent
                 @component('_components.champ')
                     @slot('animation', 'Right')
                     @slot('reward', '')
                     @slot('name', 'Национальный чемпионат JuniorSkills 2017')
-                    @slot('link', 'final17js.html')
+                    @slot('link', '17/finaljs.html')
                 @endcomponent
 
                 @component('_components.champ')
                     @slot('animation', 'Left')
                     @slot('reward', 'first')
                     @slot('name', 'Региональный чемпионат в РТ 2017')
-                    @slot('link', 'rch17rt.html')
+                    @slot('link', '17/rch.html')
                 @endcomponent
                 @component('_components.champ')
                     @slot('animation', 'Right')
                     @slot('reward', 'prof-medalion')
                     @slot('name', 'Отборочные соревнования 2018')
-                    @slot('link', 'vos18msk.html')
+                    @slot('link', '18/os.html')
                 @endcomponent
 
                 @component('_components.champ')
                     @slot('animation', 'Left')
                     @slot('reward', 'first')
                     @slot('name', 'Региональный чемпионат в РТ 2018')
-                    @slot('link', 'rch18rt.html')
+                    @slot('link', '18/rch.html')
                 @endcomponent
                 @component('_components.champ')
                     @slot('animation', 'Right')
                     @slot('reward', '')
                     @slot('name', 'Отборочные соревнования 2019')
-                    @slot('link', 'os19.html')
+                    @slot('link', '19/os.html')
                 @endcomponent
 
                 @component('_components.champ')
                     @slot('animation', 'Left')
                     @slot('reward', '')
                     @slot('name', 'Финал VII Национального чемпионата 2019')
-                    @slot('link', 'final19.html')
+                    @slot('link', '19/final.html')
                 @endcomponent
             </div>
         </div>
