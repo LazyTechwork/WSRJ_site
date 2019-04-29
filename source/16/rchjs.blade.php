@@ -6,15 +6,22 @@
             <div class="section-header">
                 <h2>Региональный чемпионат JuniorSkills 2016</h2>
             </div>
-            <div class="row">
+            <div class="row mb-4">
                 <div class="col-lg-6 about-img">
-                    <img src="https://pp.userapi.com/c845522/v845522367/5729a/FKvW7waSX4A.jpg" alt="">
+                    <img src="https://pp.userapi.com/c847220/v847220787/1ef968/13i7tJeUN68.jpg" alt="">
                 </div>
                 <div class="col-lg-6 about-img">
-                    <img src="https://pp.userapi.com/c845522/v845522367/5729a/FKvW7waSX4A.jpg" alt="">
+                    <img src="https://pp.userapi.com/c847220/v847220787/1ef9ea/XgMjquNFsko.jpg" alt="">
                 </div>
             </div>
-
+            <div class="row">
+                <div class="col-lg-6 about-img">
+                    <img src="https://pp.userapi.com/c847220/v847220787/1efac6/C-V9z5_rmRk.jpg" alt="">
+                </div>
+                <div class="col-lg-6 about-img">
+                    <img src="https://pp.userapi.com/c847220/v847220787/1efa4e/KSdGQ77firI.jpg" alt="">
+                </div>
+            </div>
         </div>
     </section>
 
