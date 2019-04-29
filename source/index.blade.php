@@ -55,7 +55,7 @@
         </div>
     </section>
 
-    <section id="team" class="wow fadeInUp">
+    <section id="wsteam" class="wow fadeInUp team">
         <div class="container">
             <div class="section-header">
                 <h2>Сборная СЦК</h2>
@@ -92,6 +92,11 @@
                     @slot('skill', 'Сетевое и системное администрирование')
                 @endcomponent
                 @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c847218/v847218347/1f2f9a/GR8ivtLpKbA.jpg')
+                    @slot('name', 'Лукьянов Артур Маратович')
+                    @slot('skill', 'Сетевое и системное администрирование')
+                @endcomponent
+                @component('_components.member')
                     @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788bc/ByAv1YyxXmE.jpg')
                     @slot('name', 'Иванов Радик Рамилевич')
                     @slot('skill', 'Предпринимательство')
@@ -100,6 +105,16 @@
                     @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788c6/vJdSjru8IHU.jpg')
                     @slot('name', 'Хамзин Рустем Алмазович')
                     @slot('skill', 'Предпринимательство')
+                @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c847218/v847218347/1f2f93/SjQkO79Uwmc.jpg')
+                    @slot('name', 'Фахрутдинов Булат Загфярович')
+                    @slot('skill', 'Разработка виртуальной и дополненной реальности')
+                @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c847218/v847218347/1f2f8c/rXURUT7Jurw.jpg')
+                    @slot('name', 'Давлетшин Дамир Айратович')
+                    @slot('skill', 'Разработка виртуальной и дополненной реальности')
                 @endcomponent
             </div>
         </div>
@@ -177,7 +192,7 @@
     <!--==========================
   Our Team Section
 ============================-->
-    <section id="team" class="wow fadeInUp">
+    <section id="team" class="wow fadeInUp team">
         <div class="container">
             <div class="section-header">
                 <h2>Команда</h2>
@@ -185,7 +200,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178880/QnDA-i-xZ0g.jpg"
+                        <div class="pic"><img src="https://pp.userapi.com/c847218/v847218347/1f2fa4/nJ-7EBAnBEQ.jpg"
                                               alt=""></div>
                         <div class="details">
                             <h4>Гуськов Вадим</h4>

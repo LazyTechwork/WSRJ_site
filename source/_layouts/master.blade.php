@@ -68,6 +68,7 @@ Header
             <ul class="nav-menu">
                 <li class="menu"><a href="@yield('fileprefix', '../')index.html">Главная</a></li>
                 <li><a href="@yield('fileprefix', '../')index.html#about">О нас</a></li>
+                <li><a href="@yield('fileprefix', '../')index.html#wsteam" class="scrollto">Сборная</a></li>
                 <li{{-- class="menu-has-children"--}}><a href="@yield('fileprefix', '../')index.html#projects">Чемпионаты</a>
                     {{--<ul>
                         <li><a href="rch17rt.html">Региональный чемпионат в РТ 2017</a></li>
@@ -77,8 +78,7 @@ Header
                         <li><a href="final19.html">Финал VII Национального чемпионата 2019</a></li>
                     </ul>--}}
                 </li>
-                <li><a href="@yield('fileprefix', '../')index.html#team" class="scrollto">Команда</a></li>
-                <li><a href="@yield('fileprefix', '../')index.html#contact" class="scrollto">Связаться</a></li>
+                <li><a href="@yield('fileprefix', '../')index.html#team" class="scrollto">Связаться</a></li>
 
             </ul>
         </nav>
