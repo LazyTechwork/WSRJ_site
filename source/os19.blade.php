@@ -4,7 +4,7 @@
     <section id="about" class="wow fadeInUp">
         <div class="container">
             <div class="section-header">
-                <h2>Отборочные соревнования WorldSkills на право участия в Финале VII Национального чемпионата 2019</h2>
+                <h2>Отборочные соревнования на право участия в VII Финале Национального чемпионата 2019</h2>
             </div>
         </div>
     </section>
