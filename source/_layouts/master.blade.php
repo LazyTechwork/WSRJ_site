@@ -68,14 +68,14 @@ Header
             <ul class="nav-menu">
                 <li class="menu"><a href="index.html">Главная</a></li>
                 <li><a href="index.html#about">О нас</a></li>
-                <li class="menu-has-children"><a href="index.html#projects">Чемпионаты</a>
-                    <ul>
+                <li{{-- class="menu-has-children"--}}><a href="index.html#projects">Чемпионаты</a>
+                    {{--<ul>
                         <li><a href="rch17rt.html">Региональный чемпионат в РТ 2017</a></li>
                         <li><a href="vos18msk.html">Отборочные соревнования 2018</a></li>
                         <li><a href="rch18rt.html">Региональный чемпионат в РТ 2018</a></li>
                         <li><a href="os19.html">Отборочные соревнования 2019</a></li>
                         <li><a href="final19.html">Финал VII Национального чемпионата 2019</a></li>
-                    </ul>
+                    </ul>--}}
                 </li>
                 <li><a href="index.html#team" class="scrollto">Команда</a></li>
                 <li><a href="index.html#contact" class="scrollto">Связаться</a></li>
