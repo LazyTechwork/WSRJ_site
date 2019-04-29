@@ -18,13 +18,34 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-12 content">
-                        <p>Движение <b>WorldSkills International (WSI)</b> зародилось в послевоенные годы в Испании (1947 год), когда миру катастрофически не хватало квалифицированных рабочих рук. Первые чемпионаты проводились с целью популяризации рабочих профессий и повышения их престижа. Сегодня это эффективный инструмент подготовки кадров в соответствии с мировыми стандартами и потребностями новых высокотехнологичных производств.</p>
-                        <p>Под эгидой <b>WorldSkills</b> проводятся региональные, национальные и мировые чемпионаты, континентальные первенства. Участники совершенствуют свои навыки, соревнуясь по шести блокам профессий: строительной отрасли, информационных и коммуникационных технологий, творчества и дизайна, промышленного производства, сферы услуг и обслуживания гражданского транспорта.</p>
-                        <p>Союз <b>«Молодые профессионалы (Ворлдскиллс Россия)»</b> – официальный оператор международного некоммерческого движения WorldSkills International, миссия которого – повышение стандартов подготовки кадров. Наш девиз: <b>«Делай мир лучше силой своего мастерства!»</b>.</p>
-                        <p><b>Специализированный центр компетенций (СЦК)</b> — это центр развития профессий и профессиональных сообществ WorldSkills, ресурсный центр, обладающий современным оборудованием и технологиями, отвечающими требованиям WorldSkills, а также наличием экспертов для осуществления обучения и оценки соответствующей квалификации по стандартам WorldSkills.</p>
-                        <p>Основная миссия движения <b>WorldSkills Russia Juniors</b> - дать школьникам возможность осознанно выбрать профессию в быстро меняющемся мире, определиться с образовательной траекторией и в будущем без проблем найти свое место на рынке труда.</p>
-                        <p><b>Юниорские турниры WorldSkills</b> позволяют, во-первых, попробовать свои силы в конкретной специальности. Во-вторых, получить информацию о ней непосредственно из уст представителей профессионального сообщества, понять, как устроена отрасль и увидеть перспективы карьерного роста.</p>
-                        <p><b>Региональные юниорские соревнования</b> проходят по всей стране одновременно с основными и предполагают отбор на <b>Национальный чемпионат</b>. Из победителей этих соревнований формируется команда для участия в мировом первенстве.</p>
+                        <p>Движение <b>WorldSkills International (WSI)</b> зародилось в послевоенные годы в Испании
+                            (1947 год), когда миру катастрофически не хватало квалифицированных рабочих рук. Первые
+                            чемпионаты проводились с целью популяризации рабочих профессий и повышения их престижа.
+                            Сегодня это эффективный инструмент подготовки кадров в соответствии с мировыми стандартами и
+                            потребностями новых высокотехнологичных производств.</p>
+                        <p>Под эгидой <b>WorldSkills</b> проводятся региональные, национальные и мировые чемпионаты,
+                            континентальные первенства. Участники совершенствуют свои навыки, соревнуясь по шести блокам
+                            профессий: строительной отрасли, информационных и коммуникационных технологий, творчества и
+                            дизайна, промышленного производства, сферы услуг и обслуживания гражданского транспорта.</p>
+                        <p>Союз <b>«Молодые профессионалы (Ворлдскиллс Россия)»</b> – официальный оператор
+                            международного некоммерческого движения WorldSkills International, миссия которого –
+                            повышение стандартов подготовки кадров. Наш девиз: <b>«Делай мир лучше силой своего
+                                мастерства!»</b>.</p>
+                        <p><b>Специализированный центр компетенций (СЦК)</b> — это центр развития профессий и
+                            профессиональных сообществ WorldSkills, ресурсный центр, обладающий современным
+                            оборудованием и технологиями, отвечающими требованиям WorldSkills, а также наличием
+                            экспертов для осуществления обучения и оценки соответствующей квалификации по стандартам
+                            WorldSkills.</p>
+                        <p>Основная миссия движения <b>WorldSkills Russia Juniors</b> - дать школьникам возможность
+                            осознанно выбрать профессию в быстро меняющемся мире, определиться с образовательной
+                            траекторией и в будущем без проблем найти свое место на рынке труда.</p>
+                        <p><b>Юниорские турниры WorldSkills</b> позволяют, во-первых, попробовать свои силы в конкретной
+                            специальности. Во-вторых, получить информацию о ней непосредственно из уст представителей
+                            профессионального сообщества, понять, как устроена отрасль и увидеть перспективы карьерного
+                            роста.</p>
+                        <p><b>Региональные юниорские соревнования</b> проходят по всей стране одновременно с основными и
+                            предполагают отбор на <b>Национальный чемпионат</b>. Из победителей этих соревнований
+                            формируется команда для участия в мировом первенстве.</p>
                     </div>
                 </div>
             </div>
@@ -40,7 +61,8 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788a8/XAmIIc5IR80.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788a8/XAmIIc5IR80.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Петров Иван Владимирович</h4>
                             <hr>
@@ -50,7 +72,8 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788b2/jpF2KObSKh8.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788b2/jpF2KObSKh8.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Апаева Полина Данилевна</h4>
                             <hr>
@@ -60,7 +83,8 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/17888a/AQ8pJCVwRf0.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/17888a/AQ8pJCVwRf0.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Гиниятуллин Арслан Рафаилович</h4>
                             <hr>
@@ -73,7 +97,8 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/17889e/PrZZhExLISY.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/17889e/PrZZhExLISY.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Шарафеев Эмиль Айратович</h4>
                             <hr>
@@ -83,7 +108,8 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178894/2HtObhrOyVw.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178894/2HtObhrOyVw.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Садыкова Диляра Фаритовна</h4>
                             <hr>
@@ -93,7 +119,8 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788d0/72jx0py3Us0.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788d0/72jx0py3Us0.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Муртазин Рустам Альбертович</h4>
                             <hr>
@@ -106,7 +133,8 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788bc/ByAv1YyxXmE.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788bc/ByAv1YyxXmE.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Иванов Радик Рамилевич</h4>
                             <hr>
@@ -116,7 +144,8 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788c6/vJdSjru8IHU.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788c6/vJdSjru8IHU.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Хамзин Рустем Алмазович</h4>
                             <hr>
@@ -134,47 +163,66 @@
             <div class="section-header">
                 <h2>Чемпионаты</h2>
             </div>
-
             <div class="row">
+                @component('_components.champ')
+                    @slot('animation', 'Left')
+                    @slot('reward', 'first')
+                    @slot('name', 'Региональный чемпионат JuniorSkills 2016')
+                    @slot('link', 'rch16js.html')
+                @endcomponent
+                @component('_components.champ')
+                    @slot('animation', 'Right')
+                    @slot('reward', 'third')
+                    @slot('name', 'Национальный чемпионат JuniorSkills 2016')
+                    @slot('link', 'final16js.html')
+                @endcomponent
 
-                <div class="col-lg-6">
-                    <div class="box wow fadeInLeft">
-                        <i class="icon fa fa-check-circle first"></i>
-                        <h4 class="title"><a href="rch17rt.html">Региональный чемпионат в РТ 2017</a></h4>
-                    </div>
-                </div>
+                @component('_components.champ')
+                    @slot('animation', 'Left')
+                    @slot('reward', 'first')
+                    @slot('name', 'Региональный чемпионат JuniorSkills 2017')
+                    @slot('link', 'rch17js.html')
+                @endcomponent
+                @component('_components.champ')
+                    @slot('animation', 'Right')
+                    @slot('reward', '')
+                    @slot('name', 'Национальный чемпионат JuniorSkills 2017')
+                    @slot('link', 'final17js.html')
+                @endcomponent
 
-                <div class="col-lg-6">
-                    <div class="box wow fadeInRight">
-                        <i class="icon fa fa-check-circle prof-medalion"></i>
-                        <h4 class="title"><a href="vos18msk.html">Отборочные соревнования 2018</a></h4>
-                    </div>
-                </div>
+                @component('_components.champ')
+                    @slot('animation', 'Left')
+                    @slot('reward', 'first')
+                    @slot('name', 'Региональный чемпионат в РТ 2017')
+                    @slot('link', 'rch17rt.html')
+                @endcomponent
+                @component('_components.champ')
+                    @slot('animation', 'Right')
+                    @slot('reward', 'prof-medalion')
+                    @slot('name', 'Отборочные соревнования 2018')
+                    @slot('link', 'vos18msk.html')
+                @endcomponent
 
-                <div class="col-lg-6">
-                    <div class="box wow fadeInLeft" data-wow-delay="0.2s">
-                        <i class="icon fa fa-check-circle first"></i>
-                        <h4 class="title"><a href="rch18rt.html">Региональный чемпионат в РТ 2018</a></h4>
-                    </div>
-                </div>
+                @component('_components.champ')
+                    @slot('animation', 'Left')
+                    @slot('reward', 'first')
+                    @slot('name', 'Региональный чемпионат в РТ 2018')
+                    @slot('link', 'rch18rt.html')
+                @endcomponent
+                @component('_components.champ')
+                    @slot('animation', 'Right')
+                    @slot('reward', '')
+                    @slot('name', 'Отборочные соревнования 2019')
+                    @slot('link', 'os19.html')
+                @endcomponent
 
-                <div class="col-lg-6">
-                    <div class="box wow fadeInLeft" data-wow-delay="0.2s">
-                        <i class="icon fa fa-check-circle"></i>
-                        <h4 class="title"><a href="os19.html">Отборочные соревнования 2019</a></h4>
-                        <!--<p class="description"></p>-->
-                    </div>
-                </div>
-
-                <div class="col-lg-6">
-                    <div class="box wow fadeInLeft" data-wow-delay="0.2s">
-                        <i class="icon fa fa-check-circle"></i>
-                        <h4 class="title"><a href="final19.html">Финал VII Национального чемпионата 2019</a></h4>
-                    </div>
-                </div>
-
+                @component('_components.champ')
+                    @slot('animation', 'Left')
+                    @slot('reward', '')
+                    @slot('name', 'Финал VII Национального чемпионата 2019')
+                    @slot('link', 'final19.html')
+                @endcomponent
             </div>
-
         </div>
     </section>
 
@@ -189,7 +237,8 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178880/QnDA-i-xZ0g.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178880/QnDA-i-xZ0g.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Гуськов Вадим</h4>
                             <hr>
@@ -200,7 +249,8 @@
 
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178876/CR4SuCY7BqU.jpg" alt=""></div>
+                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178876/CR4SuCY7BqU.jpg"
+                                              alt=""></div>
                         <div class="details">
                             <h4>Петров Иван</h4>
                             <hr>
