@@ -359,7 +359,7 @@ h6 {
     img.headerlogo { height: 60px; }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     #nav-menu-container {
         display: none;
     }
@@ -436,7 +436,7 @@ h6 {
     color: #555;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     #mobile-nav-toggle {
         display: inline;
     }

@@ -64,6 +64,23 @@
                     @slot('skill_name', 'Преподавание в младших классах')
                     @slot('status', 'Заявлена')
                 @endcomponent
+
+                @component('_components.competitor')
+                    @slot('animation', 'Left')
+                    @slot('reward', '')
+                    @slot('name', 'Фахрутдинов Булат')
+                    @slot('skill_code', 'F3')
+                    @slot('skill_name', 'Разработка виртуальной и дополненной реальности')
+                    @slot('status', 'Заявлен')
+                @endcomponent
+                @component('_components.competitor')
+                    @slot('animation', 'Right')
+                    @slot('reward', '')
+                    @slot('name', 'Давлетшин Дамир')
+                    @slot('skill_code', 'F3')
+                    @slot('skill_name', 'Разработка виртуальной и дополненной реальности')
+                    @slot('status', 'Заявлен')
+                @endcomponent
             </div>
         </div>
     </section>

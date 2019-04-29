@@ -61,100 +61,46 @@
                 <h2>Сборная СЦК</h2>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788a8/XAmIIc5IR80.jpg"
-                                              alt=""></div>
-                        <div class="details">
-                            <h4>Петров Иван Владимирович</h4>
-                            <hr>
-                            <span>Компетенция: <b>Веб-дизайн и разработка</b></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788b2/jpF2KObSKh8.jpg"
-                                              alt=""></div>
-                        <div class="details">
-                            <h4>Апаева Полина Данилевна</h4>
-                            <hr>
-                            <span>Компетенция: <b>Графический дизайн</b></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/17888a/AQ8pJCVwRf0.jpg"
-                                              alt=""></div>
-                        <div class="details">
-                            <h4>Гиниятуллин Арслан Рафаилович</h4>
-                            <hr>
-                            <span>Компетенция: <b>Видеопроизводство</b></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/17889e/PrZZhExLISY.jpg"
-                                              alt=""></div>
-                        <div class="details">
-                            <h4>Шарафеев Эмиль Айратович</h4>
-                            <hr>
-                            <span>Компетенция: <b>Программные решения для бизнеса</b></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178894/2HtObhrOyVw.jpg"
-                                              alt=""></div>
-                        <div class="details">
-                            <h4>Садыкова Диляра Фаритовна</h4>
-                            <hr>
-                            <span>Компетенция: <b>Преподавание в младших классах</b></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788d0/72jx0py3Us0.jpg"
-                                              alt=""></div>
-                        <div class="details">
-                            <h4>Муртазин Рустам Альбертович</h4>
-                            <hr>
-                            <span>Компетенция: <b>Сетевое и системное администрирование</b></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788bc/ByAv1YyxXmE.jpg"
-                                              alt=""></div>
-                        <div class="details">
-                            <h4>Иванов Радик Рамилевич</h4>
-                            <hr>
-                            <span>Компетенция: <b>Предпринимательство</b></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/1788c6/vJdSjru8IHU.jpg"
-                                              alt=""></div>
-                        <div class="details">
-                            <h4>Хамзин Рустем Алмазович</h4>
-                            <hr>
-                            <span>Компетенция: <b>Предпринимательство</b></span>
-                        </div>
-                    </div>
-                </div>
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788a8/XAmIIc5IR80.jpg')
+                    @slot('name', 'Петров Иван Владимирович')
+                    @slot('skill', 'Веб-дизайн и разработка')
+                @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788b2/jpF2KObSKh8.jpg')
+                    @slot('name', 'Апаева Полина Данилевна')
+                    @slot('skill', 'Графический дизайн')
+                @endcomponent
+                    @component('_components.member')
+                        @slot('photo', 'https://pp.userapi.com/c848620/v848620989/178894/2HtObhrOyVw.jpg')
+                        @slot('name', 'Садыкова Диляра Фаритовна')
+                        @slot('skill', 'Преподавание в младших классах')
+                    @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/17888a/AQ8pJCVwRf0.jpg')
+                    @slot('name', 'Гиниятуллин Арслан Рафаилович')
+                    @slot('skill', 'Видеопроизводство')
+                @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/17889e/PrZZhExLISY.jpg')
+                    @slot('name', 'Шарафеев Эмиль Айратович')
+                    @slot('skill', 'Программные решения для бизнеса')
+                @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788d0/72jx0py3Us0.jpg')
+                    @slot('name', 'Муртазин Рустам Альбертович')
+                    @slot('skill', 'Сетевое и системное администрирование')
+                @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788bc/ByAv1YyxXmE.jpg')
+                    @slot('name', 'Иванов Радик Рамилевич')
+                    @slot('skill', 'Предпринимательство')
+                @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788c6/vJdSjru8IHU.jpg')
+                    @slot('name', 'Хамзин Рустем Алмазович')
+                    @slot('skill', 'Предпринимательство')
+                @endcomponent
             </div>
         </div>
     </section>

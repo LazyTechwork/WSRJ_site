@@ -35,7 +35,7 @@
 <!--==========================
 Top Bar
 ============================-->
-<section id="topbar" class="d-none d-lg-block">
+<section id="topbar" class="d-none d-xl-block">
     <div class="container clearfix">
         <div class="contact-info float-left">
             <i class="fa fa-envelope-o"></i> <a href="mailto:wsrj.itl@gmail.com">wsrj.itl@gmail.com</a>
