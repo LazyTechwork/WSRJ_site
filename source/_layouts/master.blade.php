@@ -66,7 +66,7 @@ Header
 
         <nav id="nav-menu-container">
             <ul class="nav-menu">
-                <li class="menu-active"><a href="#body">Главная</a></li>
+                <li class="menu"><a href="index.html">Главная</a></li>
                 <li><a href="index.html#about">О нас</a></li>
                 <li class="menu-has-children"><a href="index.html#projects">Чемпионаты</a>
                     <ul>
