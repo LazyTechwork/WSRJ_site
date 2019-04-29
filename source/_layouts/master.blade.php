@@ -8,7 +8,7 @@
     <meta content="" name="keywords">
     <meta content="" name="description">
 
-    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="icon" type="image/png" href="@yield('fileprefix', '../')img/favicon.png">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700"
@@ -25,8 +25,8 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet">
 
     <!-- Main Stylesheet File -->
-    <link href="css/fonts.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="@yield('fileprefix', '../')css/fonts.css" rel="stylesheet">
+    <link href="@yield('fileprefix', '../')css/style.css" rel="stylesheet">
 </head>
 
 <body id="body">
@@ -60,15 +60,15 @@ Header
     <div class="container">
 
         <div id="logo" class="pull-left">
-            <h1><a href="index.html" class="scrollto"><img src="./img/logo.svg" alt="" height="50" class="headerlogo">&nbsp;&nbsp;<span
+            <h1><a href="@yield('fileprefix', '../')index.html" class="scrollto"><img src="@yield('fileprefix', '../')img/logo.svg" alt="" height="50" class="headerlogo">&nbsp;&nbsp;<span
                             class="headertext">WorldSkills | IT-лицей КФУ</span></a></h1>
         </div>
 
         <nav id="nav-menu-container">
             <ul class="nav-menu">
-                <li class="menu"><a href="index.html">Главная</a></li>
-                <li><a href="index.html#about">О нас</a></li>
-                <li{{-- class="menu-has-children"--}}><a href="index.html#projects">Чемпионаты</a>
+                <li class="menu"><a href="@yield('fileprefix', '../')index.html">Главная</a></li>
+                <li><a href="@yield('fileprefix', '../')index.html#about">О нас</a></li>
+                <li{{-- class="menu-has-children"--}}><a href="@yield('fileprefix', '../')index.html#projects">Чемпионаты</a>
                     {{--<ul>
                         <li><a href="rch17rt.html">Региональный чемпионат в РТ 2017</a></li>
                         <li><a href="vos18msk.html">Отборочные соревнования 2018</a></li>
@@ -77,8 +77,8 @@ Header
                         <li><a href="final19.html">Финал VII Национального чемпионата 2019</a></li>
                     </ul>--}}
                 </li>
-                <li><a href="index.html#team" class="scrollto">Команда</a></li>
-                <li><a href="index.html#contact" class="scrollto">Связаться</a></li>
+                <li><a href="@yield('fileprefix', '../')index.html#team" class="scrollto">Команда</a></li>
+                <li><a href="@yield('fileprefix', '../')index.html#contact" class="scrollto">Связаться</a></li>
 
             </ul>
         </nav>
@@ -132,9 +132,9 @@ Footer
             <p>Специализированный центр компетенций «Молодые профессионалы IT-лицея КФУ‎». <br> Разработка сайта,
                 логотипа, оформления - участник WorldSkills в компетенции «Веб-дизайн и разработка» <a
                         href="//vk.com/ipetrovofficial"> Петров Иван</a>.</p>
-            <p class="logotypes"><img src="./img/logo.svg" alt=""><img src="./img/logo_ws.svg" alt=""><img
-                        src="./img/logo_crpk.svg" alt=""><img src="./img/logo_itl.svg" alt=""><img
-                        src="./img/logo_hile.svg" alt=""></p>
+            <p class="logotypes"><img src="./img/logo.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_ws.svg" alt=""><img
+                        src="@yield('fileprefix', '../')img/logo_crpk.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_itl.svg" alt=""><img
+                        src="@yield('fileprefix', '../')img/logo_hile.svg" alt=""></p>
         </div>
     </div>
 </footer>
@@ -152,8 +152,8 @@ Footer
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-<script src="js/sticky.js"></script>
-<script src="js/main.js"></script>
+<script src="@yield('fileprefix', '../')js/sticky.js"></script>
+<script src="@yield('fileprefix', '../')js/main.js"></script>
 
 </body>
 
