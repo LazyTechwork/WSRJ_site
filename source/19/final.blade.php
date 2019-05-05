@@ -7,9 +7,9 @@
                 <h2>Финал VII Национального чемпионата 2019</h2>
             </div>
             <div class="row">
-                <!--<div class="col-lg-6 about-img">
-                    <img src="img/vos18msk.jpg" alt="">
-                </div>-->
+                <div class="col-lg-12 about-img">
+                    <img src="https://pp.userapi.com/c845419/v845419585/200cb3/2GhxCYHjyRU.jpg" alt="">
+                </div>
                 <div class="col-lg-12 content">
                     <p><b>Финал Национального чемпионата «Молодые профессионалы (WorldSkills Russia)» </b> – это самые
                         масштабные в России соревнования профессионального мастерства по стандартам WorldSkills среди
