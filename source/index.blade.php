@@ -71,50 +71,20 @@
                     @slot('name', 'Апаева Полина Данилевна')
                     @slot('skill', 'Графический дизайн')
                 @endcomponent
-                    @component('_components.member')
-                        @slot('photo', 'https://pp.userapi.com/c848620/v848620989/178894/2HtObhrOyVw.jpg')
-                        @slot('name', 'Садыкова Диляра Фаритовна')
-                        @slot('skill', 'Преподавание в младших классах')
-                    @endcomponent
+                @component('_components.member')
+                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/178894/2HtObhrOyVw.jpg')
+                    @slot('name', 'Садыкова Диляра Фаритовна')
+                    @slot('skill', 'Предпринимательство')
+                @endcomponent
                 @component('_components.member')
                     @slot('photo', 'https://pp.userapi.com/c848620/v848620989/17888a/AQ8pJCVwRf0.jpg')
                     @slot('name', 'Гиниятуллин Арслан Рафаилович')
                     @slot('skill', 'Видеопроизводство')
                 @endcomponent
                 @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/17889e/PrZZhExLISY.jpg')
-                    @slot('name', 'Шарафеев Эмиль Айратович')
-                    @slot('skill', 'Программные решения для бизнеса')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788d0/72jx0py3Us0.jpg')
-                    @slot('name', 'Муртазин Рустам Альбертович')
-                    @slot('skill', 'Сетевое и системное администрирование')
-                @endcomponent
-                @component('_components.member')
                     @slot('photo', 'https://pp.userapi.com/c847218/v847218347/1f2f9a/GR8ivtLpKbA.jpg')
                     @slot('name', 'Лукьянов Артур Маратович')
                     @slot('skill', 'Сетевое и системное администрирование')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788bc/ByAv1YyxXmE.jpg')
-                    @slot('name', 'Иванов Радик Рамилевич')
-                    @slot('skill', 'Предпринимательство')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788c6/vJdSjru8IHU.jpg')
-                    @slot('name', 'Хамзин Рустем Алмазович')
-                    @slot('skill', 'Предпринимательство')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c847218/v847218347/1f2f93/SjQkO79Uwmc.jpg')
-                    @slot('name', 'Фахрутдинов Булат Загфярович')
-                    @slot('skill', 'Разработка виртуальной и дополненной реальности')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c847218/v847218347/1f2f8c/rXURUT7Jurw.jpg')
-                    @slot('name', 'Давлетшин Дамир Айратович')
-                    @slot('skill', 'Разработка виртуальной и дополненной реальности')
                 @endcomponent
             </div>
         </div>
@@ -181,9 +151,15 @@
 
                 @component('_components.champ')
                     @slot('animation', 'Left')
-                    @slot('reward', '')
+                    @slot('reward', 'first')
                     @slot('name', 'Финал VII Национального чемпионата 2019')
                     @slot('link', '19/final.html')
+                @endcomponent
+                @component('_components.champ')
+                    @slot('animation', 'Right')
+                    @slot('reward', '')
+                    @slot('name', 'Региональный чемпионат в РТ 2019')
+                    @slot('link', '19/rch.html')
                 @endcomponent
             </div>
         </div>

@@ -1,6 +1,6 @@
-$(window).load(function () {
+/*$(window).load(function () {
     setTimeout(() => $('.preloader').fadeOut('slow'), 1500);
-});
+});*/
 
 jQuery(document).ready(function ($) {
 
