@@ -8,7 +8,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 about-img">
-                    <img src="https://pp.userapi.com/c848620/v848620989/1788da/eU90UmIRf0M.jpg" alt="">
+                    <img src="https://sun9-12.userapi.com/c855132/v855132053/19ab9c/L2_-Pzr5HU0.jpg" alt="">
                 </div>
                 <div class="col-lg-6 content">
                     <p>IT-лицей в очередной раз представит своих молодых профессионалов, но уже в 11 компетенциях!</p>

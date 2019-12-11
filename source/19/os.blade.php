@@ -6,6 +6,11 @@
             <div class="section-header">
                 <h2>Отборочные соревнования на право участия в VII Финале Национального чемпионата 2019</h2>
             </div>
+            <div class="row">
+                <div class="col-lg-6 about-img">
+                    <img src="https://sun9-55.userapi.com/c855132/v855132053/19ab88/nSroB6dDwjk.jpg" alt="">
+                </div>
+            </div>
         </div>
     </section>
 

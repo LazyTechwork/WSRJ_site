@@ -133,7 +133,7 @@ Footer
                         href="//vk.com/ipetrovofficial"> Петров Иван</a>.</p>
             <p class="logotypes"><img src="@yield('fileprefix', '../')img/logo.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_ws.svg" alt=""><img
                         src="@yield('fileprefix', '../')img/logo_crpk.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_itl.svg" alt=""><img
-                        src="//tekly.github.io/img/tekly.svg" alt=""></p>
+                        src="@yield('fileprefix', '../')img/tekly.svg" alt=""></p>
         </div>
     </div>
 </footer>

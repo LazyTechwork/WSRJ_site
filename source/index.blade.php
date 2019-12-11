@@ -61,31 +61,12 @@
                 <h2>Сборная СЦК</h2>
             </div>
             <div class="row">
-                @component('_components.member')
+                <h2 class="text-muted text-center">Мы формируем основной состав сборной</h2>
+                {{--@component('_components.member')
                     @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788a8/XAmIIc5IR80.jpg')
                     @slot('name', 'Петров Иван Владимирович')
                     @slot('skill', 'Веб-дизайн и разработка')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/1788b2/jpF2KObSKh8.jpg')
-                    @slot('name', 'Апаева Полина Данилевна')
-                    @slot('skill', 'Графический дизайн')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/178894/2HtObhrOyVw.jpg')
-                    @slot('name', 'Садыкова Диляра Фаритовна')
-                    @slot('skill', 'Предпринимательство')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c848620/v848620989/17888a/AQ8pJCVwRf0.jpg')
-                    @slot('name', 'Гиниятуллин Арслан Рафаилович')
-                    @slot('skill', 'Видеопроизводство')
-                @endcomponent
-                @component('_components.member')
-                    @slot('photo', 'https://pp.userapi.com/c847218/v847218347/1f2f9a/GR8ivtLpKbA.jpg')
-                    @slot('name', 'Лукьянов Артур Маратович')
-                    @slot('skill', 'Сетевое и системное администрирование')
-                @endcomponent
+                @endcomponent--}}
             </div>
         </div>
     </section>
@@ -157,7 +138,7 @@
                 @endcomponent
                 @component('_components.champ')
                     @slot('animation', 'Right')
-                    @slot('reward', '')
+                    @slot('reward', 'first')
                     @slot('name', 'Региональный чемпионат в РТ 2019')
                     @slot('link', '19/rch.html')
                 @endcomponent
