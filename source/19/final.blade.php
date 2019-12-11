@@ -50,36 +50,36 @@
             <div class="row">
                 @component('_components.competitor')
                     @slot('animation', 'Left')
-                    @slot('reward', '')
+                    @slot('reward', 'second')
                     @slot('name', 'Петров Иван')
                     @slot('skill_code', '17J')
                     @slot('skill_name', 'Веб-дизайн и разработка')
-                    @slot('status', 'Заявлен')
+                    @slot('status', '2 место')
                 @endcomponent
                 @component('_components.competitor')
                     @slot('animation', 'Right')
-                    @slot('reward', '')
+                    @slot('reward', 'first')
                     @slot('name', 'Садыкова Диляра')
                     @slot('skill_code', 'R21J')
                     @slot('skill_name', 'Преподавание в младших классах')
-                    @slot('status', 'Заявлена')
+                    @slot('status', '1 место')
                 @endcomponent
 
                 @component('_components.competitor')
                     @slot('animation', 'Left')
-                    @slot('reward', '')
+                    @slot('reward', 'third')
                     @slot('name', 'Фахрутдинов Булат')
                     @slot('skill_code', 'F3')
                     @slot('skill_name', 'Разработка виртуальной и дополненной реальности')
-                    @slot('status', 'Заявлен')
+                    @slot('status', '3 место')
                 @endcomponent
                 @component('_components.competitor')
                     @slot('animation', 'Right')
-                    @slot('reward', '')
+                    @slot('reward', 'third')
                     @slot('name', 'Давлетшин Дамир')
                     @slot('skill_code', 'F3')
                     @slot('skill_name', 'Разработка виртуальной и дополненной реальности')
-                    @slot('status', 'Заявлен')
+                    @slot('status', '3 место')
                 @endcomponent
             </div>
         </div>

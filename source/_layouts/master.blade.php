@@ -131,7 +131,7 @@ Footer
             <p>Специализированный центр компетенций «Молодые профессионалы IT-лицея КФУ‎». <br> Разработка сайта,
                 логотипа, оформления - участник WorldSkills в компетенции «Веб-дизайн и разработка» <a
                         href="//vk.com/ipetrovofficial"> Петров Иван</a>.</p>
-            <p class="logotypes"><img src="./img/logo.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_ws.svg" alt=""><img
+            <p class="logotypes"><img src="@yield('fileprefix', '../')img/logo.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_ws.svg" alt=""><img
                         src="@yield('fileprefix', '../')img/logo_crpk.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_itl.svg" alt=""><img
                         src="//tekly.github.io/img/tekly.svg" alt=""></p>
         </div>
