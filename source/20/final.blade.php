@@ -7,14 +7,15 @@
                 <h2>Финал VIII Национального чемпионата 2020</h2>
             </div>
             <div class="row">
-                {{--<div class="col-lg-12 about-img">
-                    <img src="https://pp.userapi.com/c845419/v845419585/200cb3/2GhxCYHjyRU.jpg" alt="">
-                </div>--}}
-                <div class="col-lg-12 content">
-                    <p>Финал VIII Национального чемпионата 2020</p>
+                <div class="col-lg-6 about-img">
+                    <img src="https://sun1-85.userapi.com/DU97Oqo2DW_k7k5zQ0SAXnkn-kedWmaI6t3z5A/QP9Lze8lBVQ.jpg"
+                         alt="">
+                </div>
+                <div class="col-lg-6 content">
+                    <p>Финал VIII Национального чемпионата «Молодые профессионалы» (WorldSkills Russia) пройдет с 6 по
+                        21 сентября 2020 года, впервые – в дистанционно-очном формате.</p>
                 </div>
             </div>
-
         </div>
     </section>
 
