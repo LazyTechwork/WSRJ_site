@@ -142,6 +142,13 @@
                     @slot('name', 'Региональный чемпионат в РТ 2019')
                     @slot('link', '19/rch.html')
                 @endcomponent
+
+                @component('_components.champ')
+                    @slot('animation', 'Left')
+                    @slot('reward', 'second')
+                    @slot('name', 'Финал VIII Национального чемпионата 2020')
+                    @slot('link', '20/final.html')
+                @endcomponent
             </div>
         </div>
     </section>
