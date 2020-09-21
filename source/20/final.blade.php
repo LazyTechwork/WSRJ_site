@@ -27,11 +27,11 @@
             <div class="row">
                 @component('_components.competitor')
                     @slot('animation', 'Left')
-                    @slot('reward', '')
+                    @slot('reward', 'second')
                     @slot('name', 'Шульгин Савва')
                     @slot('skill_code', '17J')
                     @slot('skill_name', 'Веб-дизайн и разработка')
-                    @slot('status', 'Участник')
+                    @slot('status', '2 место')
                 @endcomponent
                 @component('_components.competitor')
                     @slot('animation', 'Right')
