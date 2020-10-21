@@ -39,15 +39,10 @@ Top Bar
         <div class="contact-info float-left">
             <i class="fa fa-envelope-o"></i> <a href="mailto:wsrj.itl@gmail.com">wsrj.itl@gmail.com</a>
             <i class="fa fa-phone"></i> +7 (917) 890 51 22
-            <i class="fa fa-vk"></i> <a href="//vk.com/wsrj_itl">@WSRJ_ITL</a>
+            <i class="fa fa-vk"></i> <a href="//vk.com/wsitl">@WSITL</a>
         </div>
         <div class="social-links float-right">
-            <span>Специализированный центр компетенций «Молодые профессионалы IT-лицея КФУ‎»</span>
-            <!--<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-    <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-    <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-    <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-    <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>-->
+            <span>Специализированный центр компетенций «Молодые профессионалы IT-лицея КФУ»</span>
         </div>
     </div>
 </section>
@@ -59,7 +54,8 @@ Header
     <div class="container">
 
         <div id="logo" class="pull-left">
-            <h1><a href="@yield('fileprefix', '../')index.html" class="scrollto"><img src="@yield('fileprefix', '../')img/logo.svg" alt="" height="50" class="headerlogo">&nbsp;&nbsp;<span
+            <h1><a href="@yield('fileprefix', '../')index.html" class="scrollto"><img
+                            src="@yield('fileprefix', '../')img/logo.svg" alt="" height="50" class="headerlogo">&nbsp;&nbsp;<span
                             class="headertext">WorldSkills | IT-лицей КФУ</span></a></h1>
         </div>
 
@@ -131,8 +127,10 @@ Footer
             <p>Специализированный центр компетенций «Молодые профессионалы IT-лицея КФУ‎». <br> Разработка сайта,
                 логотипа, оформления - участник WorldSkills в компетенции «Веб-дизайн и разработка» <a
                         href="//vk.com/ipetrovofficial"> Петров Иван</a>.</p>
-            <p class="logotypes"><img src="@yield('fileprefix', '../')img/logo.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_ws.svg" alt=""><img
-                        src="@yield('fileprefix', '../')img/logo_crpk.svg" alt=""><img src="@yield('fileprefix', '../')img/logo_itl.svg" alt=""><img
+            <p class="logotypes"><img src="@yield('fileprefix', '../')img/logo.svg" alt=""><img
+                        src="@yield('fileprefix', '../')img/logo_ws.svg" alt=""><img
+                        src="@yield('fileprefix', '../')img/logo_crpk.svg" alt=""><img
+                        src="@yield('fileprefix', '../')img/logo_itl.svg" alt=""><img
                         src="@yield('fileprefix', '../')img/tekly.svg" alt=""></p>
         </div>
     </div>

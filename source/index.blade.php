@@ -149,6 +149,12 @@
                     @slot('name', 'Финал VIII Национального чемпионата 2020')
                     @slot('link', '20/final.html')
                 @endcomponent
+                    @component('_components.champ')
+                        @slot('animation', 'Right')
+                        @slot('reward', '')
+                        @slot('name', 'Региональный чемпионат в РТ 2020')
+                        @slot('link', '20/rch.html')
+                    @endcomponent
             </div>
         </div>
     </section>
@@ -169,19 +175,19 @@
                         <div class="details">
                             <h4>Гуськов Вадим</h4>
                             <hr>
-                            <span>Координатор движения WorldSkills в IT-лицее</span>
+                            <span>Руководитель по организации чемпионатов</span>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6">
                     <div class="member">
-                        <div class="pic"><img src="https://pp.userapi.com/c848620/v848620989/178876/CR4SuCY7BqU.jpg"
+                        <div class="pic"><img src="https://sun9-20.userapi.com/c853424/v853424554/1dd36a/gx6LulXyd2U.jpg"
                                               alt=""></div>
                         <div class="details">
                             <h4>Петров Иван</h4>
                             <hr>
-                            <span>Координатор движения WorldSkills в IT-лицее</span>
+                            <span>Руководитель направления по работе со сборной</span>
                             <!--<div class="social">
                                 <a href=""><i class="fa fa-twitter"></i></a>
                                 <a href=""><i class="fa fa-facebook"></i></a>
