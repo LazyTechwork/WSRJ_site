@@ -72,7 +72,7 @@
                 @component('_components.competitor')
                     @slot('animation', 'Right')
                     @slot('reward', '')
-                    @slot('name', 'Зарипзянова Рената')
+                    @slot('name', 'Зарипьзянова Рената')
                     @slot('skill_code', '40J')
                     @slot('skill_name', 'Графический дизайн - юниоры')
                     @slot('status', 'Заявлен')
