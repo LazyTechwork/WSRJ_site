@@ -4,7 +4,7 @@
     <section id="about" class="wow fadeInUp">
         <div class="container">
             <div class="section-header">
-                <h2>Золотая медаль Регионального чемпионата WorldSkills Russia 2017-2018</h2>
+                <h2>Региональный чемпионат WorldSkills в Республике Татарстан 2017</h2>
             </div>
             <div class="row">
                 <div class="col-lg-6 about-img">
