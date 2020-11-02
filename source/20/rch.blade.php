@@ -149,6 +149,23 @@
                 @component('_components.competitor')
                     @slot('animation', 'Left')
                     @slot('reward', '')
+                    @slot('name', 'Аскаров Самат')
+                    @slot('skill_code', 'R11J')
+                    @slot('skill_name', 'Предпринимательство - юниоры')
+                    @slot('status', 'Заявлен')
+                @endcomponent
+                @component('_components.competitor')
+                    @slot('animation', 'Right')
+                    @slot('reward', '')
+                    @slot('name', 'Хамзин Рустем')
+                    @slot('skill_code', 'R11J')
+                    @slot('skill_name', 'Предпринимательство - юниоры')
+                    @slot('status', 'Заявлен')
+                @endcomponent
+
+                @component('_components.competitor')
+                    @slot('animation', 'Left')
+                    @slot('reward', '')
                     @slot('name', 'Бадуртдинова  Гульназ')
                     @slot('skill_code', 'R21J')
                     @slot('skill_name', 'Преподавание в младших классах - юниоры')
