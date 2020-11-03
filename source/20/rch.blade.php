@@ -30,9 +30,9 @@
                 @component('_components.competitor')
                     @slot('animation', 'Left')
                     @slot('reward', '')
-                    @slot('name', 'Шульгин Савва')
-                    @slot('skill_code', '17')
-                    @slot('skill_name', 'Веб-дизайн и разработка')
+                    @slot('name', 'Латфуллина Элина')
+                    @slot('skill_code', 'R6J')
+                    @slot('skill_name', 'Лабораторный химический анализ - юниоры')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -98,7 +98,7 @@
                 @component('_components.competitor')
                     @slot('animation', 'Left')
                     @slot('reward', '')
-                    @slot('name', 'Галиев Ирек')
+                    @slot('name', 'Улесов Артём')
                     @slot('skill_code', 'F6J')
                     @slot('skill_name', 'Разработка мобильных приложений - юниоры')
                     @slot('status', 'Заявлен')
@@ -194,15 +194,6 @@
                     @slot('name', 'Сабирзянов Мирсаит')
                     @slot('skill_code', 'R54J')
                     @slot('skill_name', 'Инженерия космических систем - юниоры')
-                    @slot('status', 'Заявлен')
-                @endcomponent
-
-                @component('_components.competitor')
-                    @slot('animation', 'Left')
-                    @slot('reward', '')
-                    @slot('name', 'Латфуллина Элина')
-                    @slot('skill_code', 'R6J')
-                    @slot('skill_name', 'Лабораторный химический анализ - юниоры')
                     @slot('status', 'Заявлен')
                 @endcomponent
             </div>
