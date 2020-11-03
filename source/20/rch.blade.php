@@ -32,7 +32,7 @@
                     @slot('reward', '')
                     @slot('name', 'Латфуллина Элина')
                     @slot('skill_code', 'R6J')
-                    @slot('skill_name', 'Лабораторный химический анализ - юниоры')
+                    @slot('skill_name', 'Лабораторный химический анализ')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -40,7 +40,7 @@
                     @slot('reward', '')
                     @slot('name', 'Мурзаев Марат')
                     @slot('skill_code', '17J')
-                    @slot('skill_name', 'Веб-дизайн и разработка - юниоры')
+                    @slot('skill_name', 'Веб-дизайн и разработка')
                     @slot('status', 'Заявлен')
                 @endcomponent
 
@@ -49,7 +49,7 @@
                     @slot('reward', '')
                     @slot('name', 'Ситдиков Камиль')
                     @slot('skill_code', '17J')
-                    @slot('skill_name', 'Веб-дизайн и разработка - юниоры')
+                    @slot('skill_name', 'Веб-дизайн и разработка')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -57,7 +57,7 @@
                     @slot('reward', '')
                     @slot('name', 'Галашев Никита')
                     @slot('skill_code', '39J')
-                    @slot('skill_name', 'Сетевое и системное администрирование - юниоры')
+                    @slot('skill_name', 'Сетевое и системное администрирование')
                     @slot('status', 'Заявлен')
                 @endcomponent
 
@@ -66,7 +66,7 @@
                     @slot('reward', '')
                     @slot('name', 'Смирнов Семен')
                     @slot('skill_code', '39J')
-                    @slot('skill_name', 'Сетевое и системное администрирование - юниоры')
+                    @slot('skill_name', 'Сетевое и системное администрирование')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -74,7 +74,7 @@
                     @slot('reward', '')
                     @slot('name', 'Зарипьзянова Рената')
                     @slot('skill_code', '40J')
-                    @slot('skill_name', 'Графический дизайн - юниоры')
+                    @slot('skill_name', 'Графический дизайн')
                     @slot('status', 'Заявлен')
                 @endcomponent
 
@@ -83,7 +83,7 @@
                     @slot('reward', '')
                     @slot('name', 'Хаметшин Ренат')
                     @slot('skill_code', 'F1J')
-                    @slot('skill_name', 'Эксплуатация беспилотных авиационных систем - юниоры')
+                    @slot('skill_name', 'Эксплуатация беспилотных авиационных систем')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -100,7 +100,7 @@
                     @slot('reward', '')
                     @slot('name', 'Улесов Артём')
                     @slot('skill_code', 'F6J')
-                    @slot('skill_name', 'Разработка мобильных приложений - юниоры')
+                    @slot('skill_name', 'Разработка мобильных приложений')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -108,7 +108,7 @@
                     @slot('reward', '')
                     @slot('name', 'Насыбуллин Карим')
                     @slot('skill_code', 'F6J')
-                    @slot('skill_name', 'Разработка мобильных приложений - юниоры')
+                    @slot('skill_name', 'Разработка мобильных приложений')
                     @slot('status', 'Заявлен')
                 @endcomponent
 
@@ -134,7 +134,7 @@
                     @slot('reward', '')
                     @slot('name', 'Коротков Алексей')
                     @slot('skill_code', 'R11J')
-                    @slot('skill_name', 'Предпринимательство - юниоры')
+                    @slot('skill_name', 'Предпринимательство')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -142,7 +142,7 @@
                     @slot('reward', '')
                     @slot('name', 'Краус Артем')
                     @slot('skill_code', 'R11J')
-                    @slot('skill_name', 'Предпринимательство - юниоры')
+                    @slot('skill_name', 'Предпринимательство')
                     @slot('status', 'Заявлен')
                 @endcomponent
 
@@ -151,7 +151,7 @@
                     @slot('reward', '')
                     @slot('name', 'Аскаров Самат')
                     @slot('skill_code', 'R11J')
-                    @slot('skill_name', 'Предпринимательство - юниоры')
+                    @slot('skill_name', 'Предпринимательство')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -159,7 +159,7 @@
                     @slot('reward', '')
                     @slot('name', 'Хамзин Рустем')
                     @slot('skill_code', 'R11J')
-                    @slot('skill_name', 'Предпринимательство - юниоры')
+                    @slot('skill_name', 'Предпринимательство')
                     @slot('status', 'Заявлен')
                 @endcomponent
 
@@ -168,7 +168,7 @@
                     @slot('reward', '')
                     @slot('name', 'Бадуртдинова  Гульназ')
                     @slot('skill_code', 'R21J')
-                    @slot('skill_name', 'Преподавание в младших классах - юниоры')
+                    @slot('skill_name', 'Преподавание в младших классах')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -176,7 +176,7 @@
                     @slot('reward', '')
                     @slot('name', 'Байрамов Марсель')
                     @slot('skill_code', 'R54J')
-                    @slot('skill_name', 'Инженерия космических систем - юниоры')
+                    @slot('skill_name', 'Инженерия космических систем')
                     @slot('status', 'Заявлен')
                 @endcomponent
 
@@ -185,7 +185,7 @@
                     @slot('reward', '')
                     @slot('name', 'Звонцев Илья')
                     @slot('skill_code', 'R54J')
-                    @slot('skill_name', 'Инженерия космических систем - юниоры')
+                    @slot('skill_name', 'Инженерия космических систем')
                     @slot('status', 'Заявлен')
                 @endcomponent
                 @component('_components.competitor')
@@ -193,7 +193,7 @@
                     @slot('reward', '')
                     @slot('name', 'Сабирзянов Мирсаит')
                     @slot('skill_code', 'R54J')
-                    @slot('skill_name', 'Инженерия космических систем - юниоры')
+                    @slot('skill_name', 'Инженерия космических систем')
                     @slot('status', 'Заявлен')
                 @endcomponent
             </div>
