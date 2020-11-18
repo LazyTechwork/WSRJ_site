@@ -183,7 +183,7 @@
                 @component('_components.competitor')
                     @slot('animation', 'Left')
                     @slot('reward', '')
-                    @slot('name', 'Звонцев Илья')
+                    @slot('name', 'Хамитов Даян')
                     @slot('skill_code', 'R54J')
                     @slot('skill_name', 'Инженерия космических систем')
                     @slot('status', 'Заявлен')
