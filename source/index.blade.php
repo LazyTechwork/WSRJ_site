@@ -151,7 +151,7 @@
                 @endcomponent
                     @component('_components.champ')
                         @slot('animation', 'Right')
-                        @slot('reward', '')
+                        @slot('reward', 'first')
                         @slot('name', 'Региональный чемпионат в РТ 2020')
                         @slot('link', '20/rch.html')
                     @endcomponent
