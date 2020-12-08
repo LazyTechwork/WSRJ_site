@@ -186,20 +186,20 @@
                 @endcomponent
                 @component('_components.competitor')
                     @slot('animation', 'Right')
-                    @slot('reward', 'first')
+                    @slot('reward', 'seconds')
                     @slot('name', 'Аскаров Самат')
                     @slot('skill_code', 'R11J')
                     @slot('skill_name', 'Предпринимательство')
-                    @slot('status', '1 место')
+                    @slot('status', '2 место')
                 @endcomponent
 
                 @component('_components.competitor')
                     @slot('animation', 'Left')
-                    @slot('reward', 'first')
+                    @slot('reward', 'seconds')
                     @slot('name', 'Хамзин Рустем')
                     @slot('skill_code', 'R11J')
                     @slot('skill_name', 'Предпринимательство')
-                    @slot('status', '1 место')
+                    @slot('status', '2 место')
                 @endcomponent
                 @component('_components.competitor')
                     @slot('animation', 'Right')
