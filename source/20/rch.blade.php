@@ -186,7 +186,7 @@
                 @endcomponent
                 @component('_components.competitor')
                     @slot('animation', 'Right')
-                    @slot('reward', 'seconds')
+                    @slot('reward', 'second')
                     @slot('name', 'Аскаров Самат')
                     @slot('skill_code', 'R11J')
                     @slot('skill_name', 'Предпринимательство')
@@ -195,7 +195,7 @@
 
                 @component('_components.competitor')
                     @slot('animation', 'Left')
-                    @slot('reward', 'seconds')
+                    @slot('reward', 'second')
                     @slot('name', 'Хамзин Рустем')
                     @slot('skill_code', 'R11J')
                     @slot('skill_name', 'Предпринимательство')
