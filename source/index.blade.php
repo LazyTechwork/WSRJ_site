@@ -149,12 +149,32 @@
                     @slot('name', 'Финал VIII Национального чемпионата 2020')
                     @slot('link', '20/final.html')
                 @endcomponent
-                    @component('_components.champ')
-                        @slot('animation', 'Right')
-                        @slot('reward', 'first')
-                        @slot('name', 'Региональный чемпионат в РТ 2020')
-                        @slot('link', '20/rch.html')
-                    @endcomponent
+                @component('_components.champ')
+                    @slot('animation', 'Right')
+                    @slot('reward', 'first')
+                    @slot('name', 'Региональный чемпионат в РТ 2020')
+                    @slot('link', '20/rch.html')
+                @endcomponent
+
+                @component('_components.champ')
+                    @slot('animation', 'Left')
+                    @slot('reward', 'second')
+                    @slot('name', 'Финал IX Национального чемпионата 2021')
+                    @slot('link', '21/final.html')
+                @endcomponent
+                @component('_components.champ')
+                    @slot('animation', 'Right')
+                    @slot('reward', 'first')
+                    @slot('name', 'Национальный чемпионат DigitalSkills 2021')
+                    @slot('link', '21/ds.html')
+                @endcomponent
+
+                @component('_components.champ')
+                    @slot('animation', 'Left')
+                    @slot('reward', 'first')
+                    @slot('name', 'Региональный чемпионат в РТ 2021')
+                    @slot('link', '21/rch.html')
+                @endcomponent
             </div>
         </div>
     </section>
