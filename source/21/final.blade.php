@@ -58,23 +58,6 @@
                     @slot('skill_name', 'Предпринимательство')
                     @slot('status', '3 место')
                 @endcomponent
-
-                @component('_components.competitor')
-                    @slot('animation', 'Left')
-                    @slot('reward', 'second')
-                    @slot('name', 'Смирнов Семён')
-                    @slot('skill_code', '39J')
-                    @slot('skill_name', 'Сетевое и системное администрирование')
-                    @slot('status', '2 место')
-                @endcomponent
-                @component('_components.competitor')
-                    @slot('animation', 'Right')
-                    @slot('reward', 'second')
-                    @slot('name', 'Лукьянов Артур')
-                    @slot('skill_code', '39J')
-                    @slot('skill_name', 'Сетевое и системное администрирование')
-                    @slot('status', '2 место')
-                @endcomponent
             </div>
         </div>
     </section>
